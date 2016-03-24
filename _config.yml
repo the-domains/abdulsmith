@@ -1,6 +1,6 @@
 name: abdulsmith
 favicon: null
-layout_spectrum: 0.64657
+layout_spectrum: 0.8709
 typography_spectrum: 0.44831
 title: Abdul Smith Photography
 cta:
@@ -22,8 +22,8 @@ color:
     - '#858585'
     - '#656565'
     - '#4f4f4f'
-  brandStrength: 0.0625
+  brandStrength: 0.25
   lightness: 0.6875
-  saturation: 1
-  rhythmicContrast: 0.25
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
